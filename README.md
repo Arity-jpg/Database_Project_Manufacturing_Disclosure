@@ -49,17 +49,3 @@ You will find a couple of folders each with a specific purpose (see below). Bewa
 |[queries](./queries/README.md)| Your queries in natural language, relational algebra and SQL must be put here. Similarly you may place views here. |
 
 You will find a readme file in each folder. Please look into it for further instructions.
-
-## Grading
-Additional information about grading can be found in your syllabus. However, be aware that failing instructions partially or completely will be a reason for downgrading or failing the exam. Also, please be aware that the announced deadline for submission is strict, no exceptions! Be also aware that your final submission will automatically also indicate that you **accept** and **acknowledge academic integrity** and **student responsibility** as described in our syllabus (see Moodle).
-
-For the subsections of your examination project you will find weights/points in the table below. Each category is graded according to creativity, correctness, and complexity of your solution.
-
-|Topic|	Points|
-|---|---|
-|data|15|
-|documentation|5|
-|model|10|
-|routines|10|
-|queries|20|
-|**total**|**60**|
