@@ -3,9 +3,6 @@
 # Author of this project
 Alice Zimpfer, Matrikelnr.: 327090
 
-# futureLAB
-I attended the event on 16.01.24 (see Ringvorlesung_16-01-24.JPG), I also liked and shared more than 5 posts of hspf_wirtschaftsinfo on Instagram (name: arity.jpg).
-
 -------------------------------------------
 # Introduction
 Sport product manufacturers 🏭 disclose details about their factories as a part of their marketing strategy for transparency. With the implementation of this database system, you can effortlessly access and compare information of renowned sport product brands as Nike, Adidas, VF Corporation and Puma. 🏀⚽👟
