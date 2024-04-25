@@ -7,11 +7,6 @@ Sport product manufacturers 🏭 disclose details about their factories as a par
 This database system is designed to investigate and understand factory details across those brands, making their manufacturing more transparent. 📊🌐 The data model intentionally abstracts away characteristics and relationships that are not crucial for problem solving. Ensuring an efficient representation of the real world of sport product manufacturing within the database design. 📊💻
 
 ------------------------------------------
-# Database Systems Exam Project
-This repository describes your examination task in our lecture **Database Systems**. In our current semester winter term 2023/2024, this is task is an extension to your written exam. The extension is meant to be carried out as an individual project. 
-
-In addition to your project, you may receive a bonus on grading (of + 0,3; meaning the next better subgrade) if you attend two additional lectures in lecture series **Ringvorlesung Digitalisierung** or alternatively attend one of these lectures and respond (by share/like) to at least five of our social media posts (on [LinkedIn](https://www.linkedin.com/company/80157632) or [Instagram](https://www.instagram.com/hspf_wirtschaftsinfo/)).
-
 ## Project Overview
 Our main goal (for all teams) will be to extend and update the mondial database used in our lecture. This idea was driven based on a arte documentation series called [Mit offenen Karten](https://www.arte.tv/de/videos/103960-020-A/mit-offenen-karten/) \(available in French and German\).
 
